@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:background="#2D2D2D">
+
+    <!-- 标题行-->
+    <TableRow android:background="#808080">
+        <TextView
+            android:layout_span="2"
+            android:padding="8dp"
+            android:text="Hello TableLayout"
+            android:textColor="#FFFFFF" />
+    </TableRow>
+
+    <TableRow android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:padding="8dp"
+            android:text="Open..."
+            android:textColor="#CCCCCC" />
+
+        <TextView
+            android:gravity="right"
+            android:padding="8dp"
+            android:text="Ctrl-O"
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="Save..."
+            android:textColor="#CCCCCC" />
+        <TextView
+            android:padding="8dp"
+            android:gravity="right"
+            android:text="Ctrl-S"
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="Save As..."
+            android:textColor="#CCCCCC" />
+        <TextView
+            android:padding="8dp"
+            android:gravity="right"
+            android:text="Ctrl-Shift-S"
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+    <!-- 分隔线 -->
+    <View
+        android:layout_height="1dp"
+        android:background="#555555" />
+
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="X Import..."
+            android:textColor="#CCCCCC" />
+        <TextView
+            android:padding="8dp"
+            android:text=""
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="X Export..."
+            android:textColor="#CCCCCC" />
+        <TextView
+            android:padding="8dp"
+            android:gravity="right"
+            android:text="Ctrl-E"
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+    <!-- 分隔线 -->
+    <View
+        android:layout_height="1dp"
+        android:background="#555555" />
+
+    <TableRow>
+        <TextView
+            android:padding="8dp"
+            android:text="Quit"
+            android:textColor="#CCCCCC" />
+        <TextView
+            android:padding="8dp"
+            android:text=""
+            android:textColor="#CCCCCC" />
+    </TableRow>
+
+</TableLayout>
