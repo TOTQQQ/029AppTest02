@@ -20,20 +20,30 @@
 
 四、实验步骤和结果
 4.1 线性布局
+
+
 <img width="578" height="1229" alt="ScreenShot_2026-09-22_115735_570" src="https://github.com/user-attachments/assets/2b72991d-0c50-4c2e-b3d8-654e72bdd43a" />
 
 4.2 表格布局
+
+
 <img width="641" height="1253" alt="ScreenShot_2026-09-22_115755_310" src="https://github.com/user-attachments/assets/266e0354-de00-4c54-a7f4-20e97aabf867" />
 
 4.3 约束布局1——计算器界面
+
+
 <img width="574" height="1218" alt="ScreenShot_2026-09-22_115804_174" src="https://github.com/user-attachments/assets/44f8e95c-e448-4f63-9fd1-9f71469a1302" />
 
 
 4.4 约束布局2——太空旅行预订界面
+
+
 <img width="606" height="1218" alt="ScreenShot_2026-09-22_115812_627" src="https://github.com/user-attachments/assets/42e6cb55-ad53-4387-ae8d-55b3e81943d9" />
 
 
 4.5 课程任务管理应用
+
+
 <img width="583" height="1227" alt="ScreenShot_2026-09-22_115821_432" src="https://github.com/user-attachments/assets/dc62ae7b-ab1b-4670-a78c-37303564f3ab" />
 <img width="739" height="1213" alt="ScreenShot_2026-09-22_115852_589" src="https://github.com/user-attachments/assets/4566a7fd-e3ac-4d6a-ae3b-fca259769dd7" />
 <img width="614" height="1281" alt="ScreenShot_2026-09-22_115843_621" src="https://github.com/user-attachments/assets/f04649c4-4347-4737-b2a9-8cfa77a7a8e6" />
